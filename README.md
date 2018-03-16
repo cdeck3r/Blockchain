@@ -4,40 +4,38 @@ Student project deeply researching the blockchain topic; part of the Masters pro
 
 
 # Inhaltsangabe
-- [Grundlagen von Blockchain](#Grundlagen von Blockchain)
-  * [Hype Cycle](#Hype Cycle)
-  * [Begriff Blockchain](#Begriff Blockchain)
-  * [Hash Funktion](#Hash Funktion)
-  * [Transaktionen, Zahlungsverkehr](#Transaktionen, Zahlungsverkehr)
-  * [Hash Funktion](#Hash Funktion)
-  * [NXT](#NXT)
-  * [Ethereum](#Ethereum)
-  * [IOTA](#IOTA)
-  * [Vergleich der Plattformen](#Vergleich der Plattformen)
+- Grundlagen von Blockchai
+  * Hype Cycle
+  * Begriff Blockchain
+  * Hash Funktion
+  * Transaktionen, Zahlungsverkehr
+  * Hash Funktion
+  * NXT
+  * Ethereum
+  * IOTA
+  * Vergleich der Plattformen
    
    
-- [Blockchain Technologie](#Blockchain Technologie)
-  * [Arten von Blockchains](#Arten von Blockchains)
-    + [Öffentliche](#Öffentliche)
-    + [Private](#Private)
-    + [Konsortium](#Konsortium)
-    + [Vergleich der Blockchain Technologien ](#Vergleich der Blockchain Technologien)
+- Blockchain Technologie
+  * Arten von Blockchains
+    + Öffentliche
+    + Private
+    + Konsortium
+    + Vergleich der Blockchain Technologien
      
- - [Potenzielle Einsatz- und Anwendungsbereiche](#Potenzielle Einsatz- und Anwendungsbereiche)
-  * [Smart Contracts](#Smart Contracts)
-  * [Revolution des Bezahlsystems](#Revolution des Bezahlsystems)
-  * [Wahlen](#Wahlen)
+ - Potenzielle Einsatz- und Anwendungsbereiche
+  * Smart Contracts
+  * Revolution des Bezahlsystems
+  * Wahlen
 
        
- - [SWOT Analyse](#Sicherheit)
+ - SWOT Analyse
  
- 
- 
- - [IOC](#IOC)
-  * [Grundlagen](#Grundlagen)
-  * [Funktionsweise](#Funktionsweise)
-  * [Sicherheitsaspekte](#Sicherheitsaspekte)
-  * [Marktanalyse](#Marktanalyse)
-  * [BMCs zu ICOs aufstellen](BMCs zu ICOs aufstellen)
+ - IOC
+  * Grundlagen
+  * Funktionsweise
+  * Sicherheitsaspekte
+  * Marktanalyse
+  * BMCs zu ICOs aufstellen
  
      
