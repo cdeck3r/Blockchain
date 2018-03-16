@@ -18,10 +18,10 @@ Student project deeply researching the blockchain topic; part of the Masters pro
    
 - Blockchain Technologie
    * Arten von Blockchains
-    + Öffentliche
-    + Private
-    + Konsortium
-    + Vergleich der Blockchain Technologien
+     + Öffentliche
+     + Private
+     + Konsortium
+     + Vergleich der Blockchain Technologien
      
  - Potenzielle Einsatz- und Anwendungsbereiche
    * Smart Contracts
