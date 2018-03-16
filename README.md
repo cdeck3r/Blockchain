@@ -4,7 +4,7 @@ Student project deeply researching the blockchain topic; part of the Masters pro
 
 
 # Inhaltsangabe
-- Grundlagen von Blockchai
+- Grundlagen von Blockchain
   * Hype Cycle
   * Begriff Blockchain
   * Hash Funktion
