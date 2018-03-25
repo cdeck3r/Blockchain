@@ -11,6 +11,7 @@ Student project deeply researching the blockchain topic; part of the Masters pro
   * Transaktionen, Zahlungsverkehr
   * Hash Funktion
   * NXT
+  * Bitcoin
   * Ethereum
   * IOTA
   * Vergleich der Plattformen
